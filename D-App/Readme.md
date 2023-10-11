@@ -6,7 +6,7 @@ The "Transactions" smart contract is a simple Ethereum blockchain-based applicat
 
 - **Solidity Version**: 0.8.0
 - **License**: UNLICENSED (SPDX-License-Identifier)
-- **Author**: [Himasnhu-AT](https://github.com/Himasnhu-at) @ LearnTrinity.
+- **Author**: [Himanshu](https://github.com/Himasnhu-at) @ LearnTrinity.
 
 ## Overview
 
