@@ -2,6 +2,11 @@
 
 Open source Solidity Contract templates to use as a starting point for your own projects.
 
+## IMPORTANT
+
+Verify Working of contract on your local machine before deploying it on the mainnet. 
+Alternatively you can use [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js) to deploy the contract on the testnet.
+
 ## Setup
 
 To set up and run this project locally, follow these steps:
