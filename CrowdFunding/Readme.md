@@ -1,6 +1,4 @@
-# Solidity Smart Contract Documentation
-
-## CrowdFunding
+# CrowdFunding
 
 The "CrowdFunding" smart contract is a decentralized crowdfunding platform built on the Ethereum blockchain. It allows users to create and contribute to crowdfunding campaigns. This documentation explains the purpose, structure, and usage of the smart contract.
 
