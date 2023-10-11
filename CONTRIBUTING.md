@@ -7,13 +7,13 @@
 2. Clone your forked repository locally:
 
    ```bash
-   git clone
+   git clone https://github.com/LearnTrinity/Contract-Sol--temp
    ```
 
-3. Create a new branch for your feature or bug fix:
+3. Create a new branch for your new contract or bug fix:
 
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b new contract/your-new-contract-name
    ```
 
 4. Make your changes and commit them:
@@ -25,7 +25,7 @@
 5. Push your changes to your fork on GitHub:
 
    ```bash
-   git push origin feature/your-feature-name
+   git push origin new contract/your-new-contract-name
    ```
 
 6. Create a pull request from your fork to the original repository.
